@@ -3,7 +3,7 @@ Recording the learning process of computer vision
 
 A student from SCU.
 
-Since task 14 needs the results of task 12, so I combined them both in one archive.
+Since task 14 needs the results of task 12, so I combined them both in one Repository.
 
 The archive named "StereoCalibration-Rectification" contains the images, programs and results of task 12, 14. The folder called "Stereo Calibration" solves task 12 and the folder called "Rectification" solves task 14.
 
